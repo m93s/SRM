@@ -1,0 +1,44 @@
+@startuml
+
+class controller.Controller{
+    start()
+    setLogger()
+    checkInputs()
+}
+
+class Rss_crawler.Crawler{
+    keyWordList:List
+    numOfMsgCrawled:Integer
+    siteLastCrawled
+    sites
+    dumpParsedResult()
+    isContainsKeyword()
+    populateKeywordList()
+    processEntries()
+    processSites()
+    removeNonAscii()
+
+}
+class htmlParser.htmlParser{
+
+    tagType
+    url
+    fetchText()
+    removeNonAscii()
+}
+
+class header.Header {
+    levelName
+    logFileName
+    .
+    .
+    trainingFilePath
+    .
+    .
+    labelColNameTopicClassifier
+
+}
+
+class AnalysisEngine.Analysis.Engine{
+}
+@enduml

@@ -1,0 +1,54 @@
+INFO:root:2016-09-30 20:35:51.863409:- STARTING CRAWLER
+INFO:root:2016-09-30 20:35:51.867370:- START crawling sites 
+INFO:root:2016-09-30 20:35:51.867470:- Processing site : http://www.theguardian.com/world/rss 
+INFO:root:2016-09-30 20:35:58.713801:- Processing site : http://economictimes.indiatimes.com/rssfeedstopstories.cms
+INFO:root:2016-09-30 20:36:00.213751 CRAWLER SPEED :: 0.0 articles/sec
+INFO:root:2016-09-30 20:36:00.213937: END CRAWLER
+INFO:root:2016-09-30 20:36:45.255983:- STARTING CRAWLER
+INFO:root:2016-09-30 20:36:45.259916:- START crawling sites 
+INFO:root:2016-09-30 20:36:45.260070:- Processing site : http://www.theguardian.com/world/rss 
+INFO:root:2016-09-30 20:36:52.234878:- Processing site : http://economictimes.indiatimes.com/rssfeedstopstories.cms
+INFO:root:2016-09-30 20:36:53.151907:- CRAWLER SPEED :: 0.0 articles/sec
+INFO:root:2016-09-30 20:36:53.152271:- END CRAWLER
+INFO:root:2016-09-30 20:37:21.160944:- STARTING CRAWLER---------
+INFO:root:2016-09-30 20:37:21.165185:- START crawling sites 
+INFO:root:2016-09-30 20:37:21.165313:- Processing site : http://www.theguardian.com/world/rss 
+INFO:root:2016-09-30 20:37:27.550375:- Processing site : http://economictimes.indiatimes.com/rssfeedstopstories.cms
+INFO:root:2016-09-30 20:37:28.450658:- CRAWLER SPEED :: 0.0 articles/sec
+INFO:root:2016-09-30 20:37:28.450832:- END CRAWLER---------
+INFO:root:2016-09-30 20:38:28.661051:- Starting Crawler---------
+INFO:root:2016-09-30 20:38:28.665565:- Start crawling sites 
+INFO:root:2016-09-30 20:38:28.665840:- Processing site : http://www.theguardian.com/world/rss 
+INFO:root:2016-09-30 20:38:36.104775:- Processing site : http://economictimes.indiatimes.com/rssfeedstopstories.cms
+INFO:root:2016-09-30 20:38:37.435893:- CRAWLER SPEED :: 0.0 articles/sec
+INFO:root:2016-09-30 20:38:37.436066:- Closing Crawler---------
+INFO:root:2016-09-30 20:39:24.325614:- Starting Crawler---------
+INFO:root:2016-09-30 20:39:24.329963:- Start crawling sites 
+INFO:root:2016-09-30 20:39:24.330107:- Processing site : http://www.theguardian.com/world/rss 
+INFO:root:2016-09-30 20:39:43.420509:- Starting Crawler---------
+INFO:root:2016-09-30 20:39:48.281096:- Start crawling sites 
+INFO:root:2016-09-30 20:39:48.281542:- Processing site : http://www.theguardian.com/world/rss 
+INFO:root:2016-09-30 20:39:56.596140:- Processing site : http://economictimes.indiatimes.com/rssfeedstopstories.cms
+INFO:root:2016-09-30 20:39:58.142882:- CRAWLER SPEED :: 0.0 articles/sec
+INFO:root:2016-09-30 20:39:58.143337:- Closing Crawler---------
+INFO:root:2016-09-30 20:40:13.848150:- Starting Crawler---------
+INFO:root:2016-09-30 20:40:13.852223:- Start crawling sites 
+INFO:root:2016-09-30 20:40:13.852311:- Processing site : http://www.theguardian.com/world/rss 
+INFO:root:2016-09-30 20:40:21.880911:- Processing site : http://economictimes.indiatimes.com/rssfeedstopstories.cms
+INFO:root:2016-09-30 20:40:23.340488:- CRAWLER SPEED :: 0.0 articles/sec
+INFO:root:2016-09-30 20:40:23.340653:- Closing Crawler---------
+INFO:root:2016-09-30 20:41:11.437625:- Starting Crawler---------
+INFO:root:2016-09-30 20:41:11.459473:- Start crawling sites 
+INFO:root:2016-09-30 20:41:11.459845:- Processing site : http://www.theguardian.com/world/rss 
+INFO:root:2016-09-30 20:41:42.937949:- Processing site : http://economictimes.indiatimes.com/rssfeedstopstories.cms
+INFO:root:2016-09-30 20:41:47.541814:- CRAWLER SPEED :: 0.0 articles/sec
+INFO:root:2016-09-30 20:41:47.542208:- Closing Crawler---------
+INFO:root:2016-09-30 20:42:15.250847:- Starting Crawler---------
+INFO:root:2016-09-30 20:42:28.584954:- Start crawling sites 
+INFO:root:2016-09-30 20:42:30.208942:- Processing site : http://www.theguardian.com/world/rss 
+INFO:root:2016-10-03 13:03:17.552562:- Starting Crawler---------
+INFO:root:2016-10-03 18:19:16.602278:- Start crawling sites 
+INFO:root:2016-10-03 18:19:19.013191:- Processing site : http://www.theguardian.com/world/rss 
+INFO:root:2016-10-03 18:21:13.617007:- Processing site : http://economictimes.indiatimes.com/rssfeedstopstories.cms
+INFO:root:2016-10-03 18:22:41.062514:- CRAWLER SPEED :: 5.21825075887e-05 articles/sec
+INFO:root:2016-10-03 18:22:41.062938:- Closing Crawler---------
