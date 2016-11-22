@@ -52,3 +52,9 @@ INFO:root:2016-10-03 18:19:19.013191:- Processing site : http://www.theguardian.
 INFO:root:2016-10-03 18:21:13.617007:- Processing site : http://economictimes.indiatimes.com/rssfeedstopstories.cms
 INFO:root:2016-10-03 18:22:41.062514:- CRAWLER SPEED :: 5.21825075887e-05 articles/sec
 INFO:root:2016-10-03 18:22:41.062938:- Closing Crawler---------
+INFO:root:2016-11-23 00:02:15.171938:- Starting Crawler---------
+INFO:root:2016-11-23 00:02:15.175958:- Start crawling sites 
+INFO:root:2016-11-23 00:02:15.176026:- Processing site : http://www.theguardian.com/world/rss 
+INFO:root:2016-11-23 00:02:48.657256:- Starting Crawler---------
+INFO:root:2016-11-23 00:02:48.661563:- Start crawling sites 
+INFO:root:2016-11-23 00:02:48.661631:- Processing site : http://www.theguardian.com/world/rss 

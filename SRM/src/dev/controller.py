@@ -4,7 +4,9 @@ import ConfigParser
 import os.path
 import logging 
 import sys
-from analysis_engine import Analysis_Engine
+
+from data_processor import Pre_Processor
+# from analysis_engine import Analysis_Engine
 
 
 
@@ -89,12 +91,18 @@ class Controller():
 
             self.header.crawler_output = self.settings.get(section,
                                                     'CRAWLER_OUTPUT')
-            self.header.key_word_filering_switch=self.settings(
+            self.header.key_word_filering_switch=self.settings.get(
                 section, 'KEY_WORD_FILTERING_SWITCH'
             )
             self.header.key_word_filering_switch=int(
                 self.header.key_word_filering_switch
             )
+
+            self.header.self.artcile_story_pull = self.settings.get(
+                section, 'ARTICLE_STORY_PULL'
+            )
+            self.header.self.artcile_story_pull = \
+                self.artcile_story_pull.title()
 
             #Logging_Inputs
             section = 'LOGGING_INPUTS'
@@ -179,6 +187,15 @@ class Controller():
     def run_crawler(self):
         crawler = Crawler(self.header)
         return None
+
+    def a(self):
+        pre_processor = Pre_Processor(root , file_ids=[],
+                                stop_words_removal = False,
+                                named_entity_removal = False,
+                                hypernom_substitution = False)
+
+        pre_processor.start()
+
 
 
 if __name__ == '__main__':

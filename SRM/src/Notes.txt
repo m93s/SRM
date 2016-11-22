@@ -1,0 +1,21 @@
+for sentiment Analysis:
+    - remove stop words
+    - remove named entitites
+    - stemming optional/ ,  could be done may be
+    - wordnet and semantics taken into account
+
+Features to be used for sclearn classification -
+sample - [w1, w2, w3, w4,.....,wn] wn is a token that is:
+    - not a stop word
+    - not a named entity
+    - is a wordnet hypernom
+
+################################################################################
+Bugs -
+
+1- <artcile></artcile>
+    "html_parser" is parsing conetnt
+    just based on presence of "artcle" tag, which is missing in most of the
+    websites.
+
+     Fix this by not hard wiring then logic

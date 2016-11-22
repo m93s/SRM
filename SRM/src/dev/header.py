@@ -22,6 +22,7 @@ class Header():
     site_timestamp_pickle_file = ""
     crawler_output=""
     key_word_filering_switch=""
+    artcile_story_pull=""
 
 
     #Logging_Inputs

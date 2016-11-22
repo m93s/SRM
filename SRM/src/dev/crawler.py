@@ -188,7 +188,8 @@ class Crawler:
                 #    return
             
             
-            if "title" in entry:
+            if "titl" \
+               "e" in entry:
                 title = self.removeNonAscii(entry['title'])
             
                 
@@ -202,6 +203,8 @@ class Crawler:
             
             if "link" in entry:
                 link = self.removeNonAscii(entry['link'])
+
+            if self.header.artcile_story_pull:
                 html_parser = Html_Parser(link, 'article')
                 article_content = self.removeNonAscii(html_parser.fetchText())
             
